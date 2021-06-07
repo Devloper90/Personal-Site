@@ -1,0 +1,106 @@
+body{
+margin: 0;
+text-align: center;
+font-family: 'Telex', sans-serif;
+}
+
+.first{
+  text-align: center;
+  padding-top: 100px;
+  background-color:#e3fdfd;
+  width: 100%;
+}
+
+h1{
+  margin: 0 auto;
+  width: 50%;
+  font-size: 60px;
+  font-family: 'Rubik Mono One', sans-serif;
+  color: #66BFBF;
+}
+h2{
+  font-family: 'Economica', sans-serif;
+  font-size: 40px;
+  color: #66BFBF;
+}
+h3{
+  color: #66BFBF;
+}
+
+.cloud1{
+  position: absolute;
+  right:60px;
+  top: 20px;
+}
+.cloud2{
+  position: absolute;
+  left:60px;
+}
+hr{
+  border: dotted #EAf6f6 6px;
+  border-bottom: none;
+  width: 6%;
+}
+.Goal-row{
+  width: 50%;
+  margin: 150px auto;
+  text-align: left;
+  line-height: 2;
+}
+.Web{
+  width:25%;
+  float: left;
+  margin-right: 30px;
+}
+.programing{
+  width:25%;
+  float: right;
+  margin-left: 30px;
+}
+.bottom-container{
+    background-color: #66BFBF;
+padding-top: 50px;
+padding-bottom: 20px;
+}
+a{
+  color: #11999E;
+  text-decoration: none;
+  margin: 10px 20px;
+}
+a:hover{
+  color: #eaf6f6;
+}
+.copyright{
+  font-size: 10px;
+  color: #1a1a1a;
+  padding: 10px 0;
+}
+.btn {
+   -webkit-border-radius: 0;
+   -moz-border-radius: 0;
+   border-radius: 0;
+   color: #00E2FF;
+   font-family: Trebuchet MS;
+   font-size: 26px;
+   font-weight: 100;
+   padding: 15px;
+   background-color: #000000;
+   -webkit-box-shadow: 1px 1px 20px 0 #000000;
+   -moz-box-shadow: 1px 1px 20px 0 #000000;
+   box-shadow: 1px 1px 20px 0 #000000;
+   text-shadow: 1px 1px 20px #000000;
+   border: solid #00E2FF 7px;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+}
+
+.btn:hover {
+   background: #000000;
+   border: solid #99C624 5px;
+   -webkit-border-radius: 0;
+   -moz-border-radius: 0;
+   border-radius: 0;
+   text-decoration: none;
+}
